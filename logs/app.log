@@ -1,0 +1,217 @@
+[2023-08-17T17:56:05.777] [INFO] default - Mouse join the room
+[2023-08-17T17:56:05.779] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-17T17:56:26.199] [INFO] default - User log out.
+[2023-08-18T09:48:26.915] [INFO] default - Mouse join the room
+[2023-08-18T09:48:26.917] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-18T09:48:33.120] [INFO] default - Mous join the room
+[2023-08-18T09:48:33.121] [INFO] default - There are 2 users in room: 10.
+[2023-08-18T09:48:33.121] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-18T09:48:33.131] [INFO] default - Initiate video offer
+[2023-08-18T09:48:33.132] [INFO] default - send video offer
+[2023-08-18T09:48:33.140] [INFO] default - ICE candidate
+[2023-08-18T09:48:33.142] [INFO] default - ICE candidate
+[2023-08-18T09:48:33.145] [INFO] default - Initiate video answer
+[2023-08-18T09:48:33.145] [INFO] default - send video answer
+[2023-08-18T09:48:33.146] [INFO] default - ICE candidate
+[2023-08-18T09:52:47.081] [INFO] default - User log out.
+[2023-08-18T09:52:47.542] [INFO] default - User log out.
+[2023-08-28T09:30:39.807] [INFO] default - Mouse join the room
+[2023-08-28T09:30:39.808] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T09:30:50.568] [INFO] default - Mous join the room
+[2023-08-28T09:30:50.569] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T09:30:50.569] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T09:30:50.586] [INFO] default - Initiate video offer
+[2023-08-28T09:30:50.587] [INFO] default - send video offer
+[2023-08-28T09:30:50.593] [INFO] default - ICE candidate
+[2023-08-28T09:30:50.594] [INFO] default - ICE candidate
+[2023-08-28T09:30:50.601] [INFO] default - Initiate video answer
+[2023-08-28T09:30:50.602] [INFO] default - send video answer
+[2023-08-28T09:30:50.603] [INFO] default - ICE candidate
+[2023-08-28T09:31:01.819] [INFO] default - User log out.
+[2023-08-28T09:31:01.822] [INFO] default - User log out.
+[2023-08-28T09:31:46.359] [INFO] default - User log out.
+[2023-08-28T09:32:16.530] [INFO] default - User log out.
+[2023-08-28T09:32:34.383] [INFO] default - User log out.
+[2023-08-28T09:34:20.395] [INFO] default - User log out.
+[2023-08-28T09:34:34.450] [INFO] default - User log out.
+[2023-08-28T10:03:51.954] [INFO] default - Mouse join the room
+[2023-08-28T10:03:51.955] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T10:04:09.189] [INFO] default - Mous join the room
+[2023-08-28T10:04:09.190] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T10:04:09.190] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T10:04:09.197] [INFO] default - Initiate video offer
+[2023-08-28T10:04:09.198] [INFO] default - send video offer
+[2023-08-28T10:04:09.202] [INFO] default - ICE candidate
+[2023-08-28T10:04:09.203] [INFO] default - ICE candidate
+[2023-08-28T10:04:09.209] [INFO] default - Initiate video answer
+[2023-08-28T10:04:09.209] [INFO] default - send video answer
+[2023-08-28T10:04:09.210] [INFO] default - ICE candidate
+[2023-08-28T10:04:18.880] [INFO] default - User log out.
+[2023-08-28T10:04:19.351] [INFO] default - User log out.
+[2023-08-28T10:13:42.534] [INFO] default - User log out.
+[2023-08-28T10:13:46.787] [INFO] default - Mouse join the room
+[2023-08-28T10:13:46.787] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T10:14:00.163] [INFO] default - Mous join the room
+[2023-08-28T10:14:00.164] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T10:14:00.164] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T10:14:00.175] [INFO] default - Initiate video offer
+[2023-08-28T10:14:00.177] [INFO] default - send video offer
+[2023-08-28T10:14:00.181] [INFO] default - ICE candidate
+[2023-08-28T10:14:00.182] [INFO] default - ICE candidate
+[2023-08-28T10:14:00.192] [INFO] default - Initiate video answer
+[2023-08-28T10:14:00.193] [INFO] default - send video answer
+[2023-08-28T10:14:00.193] [INFO] default - ICE candidate
+[2023-08-28T10:14:06.322] [INFO] default - User log out.
+[2023-08-28T10:14:07.674] [INFO] default - User log out.
+[2023-08-28T10:43:22.370] [INFO] default - Mous join the room
+[2023-08-28T10:43:22.371] [INFO] default - There are 1 users in room: 10.
+[2023-08-28T10:43:22.371] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T10:47:19.583] [INFO] default - User log out.
+[2023-08-28T10:47:27.240] [INFO] default - Mouse join the room
+[2023-08-28T10:47:27.240] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T10:47:41.686] [INFO] default - Mous join the room
+[2023-08-28T10:47:41.686] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T10:47:41.686] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T10:47:41.693] [INFO] default - Initiate video offer
+[2023-08-28T10:47:41.694] [INFO] default - send video offer
+[2023-08-28T10:47:41.698] [INFO] default - ICE candidate
+[2023-08-28T10:47:41.699] [INFO] default - ICE candidate
+[2023-08-28T10:47:41.704] [INFO] default - Initiate video answer
+[2023-08-28T10:47:41.705] [INFO] default - send video answer
+[2023-08-28T10:47:41.705] [INFO] default - ICE candidate
+[2023-08-28T13:24:38.747] [INFO] default - User log out.
+[2023-08-28T14:06:51.061] [INFO] default - User log out.
+[2023-08-28T14:07:18.129] [INFO] default - User log out.
+[2023-08-28T14:07:32.191] [INFO] default - Mous join the room
+[2023-08-28T14:07:32.192] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T14:07:38.387] [INFO] default - Mouse join the room
+[2023-08-28T14:07:38.387] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:07:38.388] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:07:38.405] [INFO] default - Initiate video offer
+[2023-08-28T14:07:38.406] [INFO] default - send video offer
+[2023-08-28T14:07:38.412] [INFO] default - ICE candidate
+[2023-08-28T14:07:38.413] [INFO] default - ICE candidate
+[2023-08-28T14:07:38.419] [INFO] default - Initiate video answer
+[2023-08-28T14:07:38.419] [INFO] default - send video answer
+[2023-08-28T14:07:38.420] [INFO] default - ICE candidate
+[2023-08-28T14:07:50.325] [INFO] default - User log out.
+[2023-08-28T14:07:54.424] [INFO] default - Mouse join the room
+[2023-08-28T14:07:54.424] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:07:54.425] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:07:54.436] [INFO] default - Initiate video offer
+[2023-08-28T14:07:54.437] [INFO] default - send video offer
+[2023-08-28T14:07:54.440] [INFO] default - ICE candidate
+[2023-08-28T14:07:54.441] [INFO] default - ICE candidate
+[2023-08-28T14:07:54.449] [INFO] default - Initiate video answer
+[2023-08-28T14:07:54.450] [INFO] default - send video answer
+[2023-08-28T14:07:54.450] [INFO] default - ICE candidate
+[2023-08-28T14:08:07.909] [INFO] default - Mouse join the room
+[2023-08-28T14:08:07.910] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:08:20.865] [INFO] default - Mous join the room
+[2023-08-28T14:08:20.866] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:08:20.866] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T14:08:20.873] [INFO] default - Initiate video offer
+[2023-08-28T14:08:20.874] [INFO] default - send video offer
+[2023-08-28T14:08:20.877] [INFO] default - ICE candidate
+[2023-08-28T14:08:20.878] [INFO] default - ICE candidate
+[2023-08-28T14:08:20.883] [INFO] default - Initiate video answer
+[2023-08-28T14:08:20.883] [INFO] default - send video answer
+[2023-08-28T14:08:20.884] [INFO] default - ICE candidate
+[2023-08-28T14:08:57.777] [INFO] default - Mouse join the room
+[2023-08-28T14:08:57.779] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:09:09.909] [INFO] default - Mous join the room
+[2023-08-28T14:09:09.910] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:09:09.910] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T14:09:09.918] [INFO] default - Initiate video offer
+[2023-08-28T14:09:09.919] [INFO] default - send video offer
+[2023-08-28T14:09:09.920] [INFO] default - ICE candidate
+[2023-08-28T14:09:09.921] [INFO] default - ICE candidate
+[2023-08-28T14:09:09.933] [INFO] default - Initiate video answer
+[2023-08-28T14:09:09.934] [INFO] default - send video answer
+[2023-08-28T14:09:09.934] [INFO] default - ICE candidate
+[2023-08-28T14:09:57.178] [INFO] default - User log out.
+[2023-08-28T14:09:58.536] [INFO] default - User log out.
+[2023-08-28T14:10:03.130] [INFO] default - Mouse join the room
+[2023-08-28T14:10:03.131] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:10:17.891] [INFO] default - Mous join the room
+[2023-08-28T14:10:17.892] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:10:17.892] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T14:10:17.898] [INFO] default - Initiate video offer
+[2023-08-28T14:10:17.899] [INFO] default - send video offer
+[2023-08-28T14:10:17.900] [INFO] default - ICE candidate
+[2023-08-28T14:10:17.900] [INFO] default - ICE candidate
+[2023-08-28T14:10:17.906] [INFO] default - Initiate video answer
+[2023-08-28T14:10:17.906] [INFO] default - send video answer
+[2023-08-28T14:10:17.907] [INFO] default - ICE candidate
+[2023-08-28T14:13:32.191] [INFO] default - Mouse join the room
+[2023-08-28T14:13:32.193] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:13:38.131] [INFO] default - Mous join the room
+[2023-08-28T14:13:38.131] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:13:38.132] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T14:13:38.145] [INFO] default - Initiate video offer
+[2023-08-28T14:13:38.146] [INFO] default - send video offer
+[2023-08-28T14:13:38.147] [INFO] default - ICE candidate
+[2023-08-28T14:13:38.148] [INFO] default - ICE candidate
+[2023-08-28T14:13:38.158] [INFO] default - Initiate video answer
+[2023-08-28T14:13:38.160] [INFO] default - send video answer
+[2023-08-28T14:13:38.160] [INFO] default - ICE candidate
+[2023-08-28T14:58:22.107] [INFO] default - Mouse join the room
+[2023-08-28T14:58:22.108] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T14:58:29.817] [INFO] default - Mous join the room
+[2023-08-28T14:58:29.818] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T14:58:29.819] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T14:58:29.845] [INFO] default - Initiate video offer
+[2023-08-28T14:58:29.846] [INFO] default - send video offer
+[2023-08-28T14:58:29.857] [INFO] default - ICE candidate
+[2023-08-28T14:58:29.858] [INFO] default - ICE candidate
+[2023-08-28T14:58:29.869] [INFO] default - Initiate video answer
+[2023-08-28T14:58:29.870] [INFO] default - send video answer
+[2023-08-28T14:58:29.870] [INFO] default - ICE candidate
+[2023-08-28T15:09:06.293] [INFO] default - Mouse join the room
+[2023-08-28T15:09:06.295] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T15:09:13.757] [INFO] default - Mous join the room
+[2023-08-28T15:09:13.757] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T15:09:13.758] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T15:09:13.773] [INFO] default - Initiate video offer
+[2023-08-28T15:09:13.775] [INFO] default - send video offer
+[2023-08-28T15:09:13.803] [INFO] default - ICE candidate
+[2023-08-28T15:09:13.805] [INFO] default - ICE candidate
+[2023-08-28T15:09:13.807] [INFO] default - Initiate video answer
+[2023-08-28T15:09:13.808] [INFO] default - send video answer
+[2023-08-28T15:09:13.812] [INFO] default - ICE candidate
+[2023-08-28T15:37:20.278] [INFO] default - Mouse join the room
+[2023-08-28T15:37:20.279] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T15:37:41.366] [INFO] default - Mous join the room
+[2023-08-28T15:37:41.367] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T15:37:41.367] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T15:37:41.376] [INFO] default - Initiate video offer
+[2023-08-28T15:37:41.377] [INFO] default - send video offer
+[2023-08-28T15:37:41.398] [INFO] default - ICE candidate
+[2023-08-28T15:37:41.399] [INFO] default - ICE candidate
+[2023-08-28T15:37:41.404] [INFO] default - Initiate video answer
+[2023-08-28T15:37:41.405] [INFO] default - send video answer
+[2023-08-28T15:37:41.406] [INFO] default - ICE candidate
+[2023-08-28T16:05:16.852] [INFO] default - Mouse join the room
+[2023-08-28T16:05:16.853] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T16:05:23.583] [INFO] default - Mous join the room
+[2023-08-28T16:05:23.583] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T16:05:23.583] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T16:05:23.592] [INFO] default - Initiate video offer
+[2023-08-28T16:05:23.593] [INFO] default - send video offer
+[2023-08-28T16:05:23.594] [INFO] default - ICE candidate
+[2023-08-28T16:05:23.594] [INFO] default - ICE candidate
+[2023-08-28T16:05:23.605] [INFO] default - Initiate video answer
+[2023-08-28T16:05:23.605] [INFO] default - send video answer
+[2023-08-28T16:05:23.606] [INFO] default - ICE candidate
+[2023-08-28T16:05:59.066] [INFO] default - Mouse join the room
+[2023-08-28T16:05:59.067] [INFO] default - Room: 10 join a new user: Mouse
+[2023-08-28T16:06:06.417] [INFO] default - Mous join the room
+[2023-08-28T16:06:06.418] [INFO] default - There are 2 users in room: 10.
+[2023-08-28T16:06:06.418] [INFO] default - Room: 10 join a new user: Mous
+[2023-08-28T16:06:06.426] [INFO] default - Initiate video offer
+[2023-08-28T16:06:06.427] [INFO] default - send video offer
+[2023-08-28T16:06:06.427] [INFO] default - ICE candidate
+[2023-08-28T16:06:06.428] [INFO] default - ICE candidate
+[2023-08-28T16:06:06.439] [INFO] default - Initiate video answer
+[2023-08-28T16:06:06.440] [INFO] default - send video answer
+[2023-08-28T16:06:06.440] [INFO] default - ICE candidate

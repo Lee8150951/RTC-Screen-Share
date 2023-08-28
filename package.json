@@ -1,0 +1,20 @@
+{
+  "name": "webscoket",
+  "version": "1.0.0",
+  "description": "webscoket",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.0",
+    "log4js": "^6.9.1",
+    "ws": "^7.0.0"
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:yinuocode/WebSocket-WebRTC.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
